@@ -16,7 +16,7 @@
     "react-cookie": "^4.0.0",
     "react-dom": "^16.8.6",
     "react-firestore": "^1.0.1",
-    "react-scripts": "3.0.1",
+    "react-scripts": "3.4.4",
     "superstruct": "^0.6.1"
   },
   "scripts": {
